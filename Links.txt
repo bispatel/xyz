@@ -1,0 +1,47 @@
+Set this internet options in Browser-Proxy setting
+www-proxy.us.oracle.com
+Port:80
+
+Add environment variables
+HTTP_PROXY à http://www-proxy.us.oracle.com:80
+HTTPS_PROXY à http://www-proxy.us.oracle.com:80
+
+vagarant downloading link
+https://www.vagrantup.com/downloads.html
+
+Virtual Box downloading link
+https://www.virtualbox.org/wiki/Downloads
+
+
+
+
+Vagrant command location:
+https://app.vagrantup.com/centos/boxes/7
+
+
+vagrant --version
+vagrant init centos/7
+vagrant up
+
+
+Steps:
+
+1. Add proxy in environment variable
+2. Install vagrant oracle Vm on machine
+3. Restart computer
+4. Create a new folder in local drive
+5. Open command prompt > navigate to the new folder
+6. vagrant --version
+7. vagrant init centos/7
+8. vagrant up
+9. vagrant status
+10. vagrant ssh default
+
+
+
+
+====================================================================================================================================================================================================================================================================================================================================================================================================================================================================================================
+https://jenkins.io/
+
+
+https://git-scm.com/download/win
