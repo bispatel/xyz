@@ -147,10 +147,5 @@
 	
     </plugins>
   </build>
-	<distributionManagement>
-  <repository>
-    <id>MyRepo</id>
-    <url>http://localhost:6061/nexus/content/repositories/MyRepo</url>
-  </repository>
-</distributionManagement>
+	
 </project>
