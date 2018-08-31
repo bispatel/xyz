@@ -45,3 +45,27 @@ https://jenkins.io/
 
 
 https://git-scm.com/download/win
+
+
+==========================
+git init
+
+git add .
+
+git remote add origin
+
+git push origin master
+
+==========================
+
+https://nvie.com/files/Git-branching-model.pdf
+
+
+ https://www.sonarqube.org/downloads/
+ 
+ https://docs.sonarqube.org/display/SCAN/Analyzing+with+SonarQube+Scanner
+ 
+ 
+ https://www.sonatype.com/download-oss-sonatype
+ 
+ https://help.sonatype.com/repomanager2/download
